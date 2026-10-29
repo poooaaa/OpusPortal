@@ -1,0 +1,6 @@
+{
+  "name": "Plugin Store",
+  "description": "Koleksi plugin bergaya ChatGPT dengan kolom pencarian dan tampilan visual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
